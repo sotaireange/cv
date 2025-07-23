@@ -1,16 +1,22 @@
-# Danil Salov
-
 ## **Junior Python Developer**  
 📍 Bishkek, Kyrgyzstan  
  sotaireange@gmail.com  
  [GitHub](https://github.com/sotaireange)
- [Telegram](https://t.me/sotaireange)
- [Linkedin](https://www.linkedin.com/in/sotaireange/)
+[Telegram](https://t.me/sotaireange)
+[Linkedin](https://www.linkedin.com/in/sotaireange/)
 
-## 🧑‍💻 About Me
+## About Me
 Python Developer with 2 years of hands-on experience focused on algorithmic trading and data analysis. Proficient in **Pandas** for data manipulation, performance optimization, and visualization. Experienced in building high-performance asynchronous web APIs with **FastAPI** and deploying projects using **Docker**, integrating third-party APIs, and building bots. Skilled in designing and developing trading and Telegram bots with a strong focus on architecture and performance. Demonstrated expertise in analyzing large-scale datasets and implementing anomaly detection algorithms.
 
-## 💼 Work Experience
+## Projects
+
+|Name|Description|Tech/tools|
+|---|---|---|
+|**[bybit_telegram_bot](https://github.com/sotaireange/bybit_telegram_bot)**|Multi-user asynchronous trading bot integrated with message broker for BYBIT exchange with Telegram interface|aiogram, aiohttp, pandas, faststream, redis, PostgreSQL, docker|
+|**[stondust](https://github.com/sotaireange/stondust)**|Telegram bot for cryptocurrency price tracking (including TON) with live price charts [@CryptWatchBot](https://t.me/CryptWatchBot)|aiogram, aiohttp, pandas, faststream, redis, MongoDB, docker|
+|**[Crypto_listing_fast_api](https://github.com/sotaireange/Crypto_listing_fast_api)**|Crypto listing webapp using FastAPI and React.js with CoinMarketCap API integration for real-time data|FastAPI, React.js|
+
+##  Work Experience
 
 
 **Freelance**  
@@ -47,13 +53,13 @@ _Data Analyst_
 	 Stack: fastapi, React.JS,
 	[GitHub Repository](https://github.com/sotaireange/Crypto_listing_fast_api)
 
-## 🎓 Education
+##  Education
 
 ## **Saint Petersburg Electrotechnical University "LETI"**  
 _Bachelor's Degree in Information Systems and Technologies_  
 📅 Sep 2019 – Jun 2023 (Full-time)
 
-## 🛠 Skills
+##  Skills
 
 ### Programming
 - Python (asyncio, REST APIs)
@@ -75,5 +81,5 @@ _Bachelor's Degree in Information Systems and Technologies_
 
 ---
 
-## 🎯 Objective
+##  Objective
 Seeking a **Junior Python Developer** role to contribute to backend systems, work with APIs and asynchronous tasks, and grow within a collaborative team. Highly motivated to learn, improve, and deliver reliable solutions with strong analytical and data processing capabilities.
