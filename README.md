@@ -39,19 +39,6 @@ _Data Analyst_
 - Created comprehensive visualizations and prepared analytical reports for network performance insights
 - Optimized data processing performance using **Numba** for computationally intensive operations
 
-## Example:  
-- Developed a multi-user asynchronous trading bot integrated with a message broker, designed for the BYBIT exchange. Management and interaction were implemented via Telegram interface.
-	Stack: aiogram,aiohttp, pandas, faststream, redis, PostgreSQL, docker
-	[GitHub Repository](https://github.com/sotaireange/bybit_telegram_bot)
-
-- Built a Telegram bot that tracks cryptocurrency prices (including TON) and displays live price charts.  
-	Stack: aiogram,aiohttp, pandas, faststream, redis, MongoDB, docker
-	[@CryptWatchBot](https://t.me/CryptWatchBot)
-	[GitHub Repository](https://github.com/sotaireange/stondust)
-
-- Crypto Listing using FastAPI and React.js, integrated with the CoinMarketCap API for real-time data.
-	 Stack: fastapi, React.JS,
-	[GitHub Repository](https://github.com/sotaireange/Crypto_listing_fast_api)
 
 ##  Education
 
