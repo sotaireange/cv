@@ -13,7 +13,7 @@ Python Developer with 2 years of hands-on experience focused on algorithmic trad
 |Name|Description|Tech/tools|
 |---|---|---|
 |**[bybit_telegram_bot](https://github.com/sotaireange/bybit_telegram_bot)**|Multi-user asynchronous trading bot integrated with message broker for BYBIT exchange with Telegram interface|aiogram, aiohttp, pandas, faststream, redis, PostgreSQL, docker|
-|**[stondust](https://github.com/sotaireange/stondust)**|Telegram bot for cryptocurrency price tracking (including TON) with live price charts [@CryptWatchBot](https://t.me/CryptWatchBot)|aiogram, aiohttp, pandas, faststream, redis, MongoDB, docker|
+|**[StonDeDust TON Crypto Listing](https://github.com/sotaireange/stodedust_crypto_listing)**|Telegram bot for cryptocurrency price tracking (including TON) with live price charts [@CryptWatchBot](https://t.me/CryptWatchBot)|aiogram, aiohttp, pandas, faststream, redis, MongoDB, docker|
 |**[Crypto_listing_fast_api](https://github.com/sotaireange/Crypto_listing_fast_api)**|Crypto listing webapp using FastAPI and React.js with CoinMarketCap API integration for real-time data|FastAPI, React.js|
 
 ##  Work Experience
