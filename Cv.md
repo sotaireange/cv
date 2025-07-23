@@ -1,86 +1,79 @@
-# Danil Salov  
+# Danil Salov
 
-**Junior Python Developer**  
-
+## **Junior Python Developer**  
 📍 Bishkek, Kyrgyzstan  
+ sotaireange@gmail.com  
+ [GitHub](https://github.com/sotaireange)
+ [Telegram](https://t.me/sotaireange)
+ [Linkedin](https://www.linkedin.com/in/sotaireange/)
 
-📧 sotaireange@gmail.com  
-
-🔗 [GitHub: sotaireange](https://github.com/sotaireange)
-
----
-
-## 🧑‍💻 About Me  
-
-Python Developer with 2 years of hands-on experience focused on algorithmic trading and data analysis. Proficient in **Pandas**, **NumPy**, and **seaborn** for data manipulation and visualization. Experienced in deploying projects using **Docker on VPS**, integrating third-party APIs, and building bots. Skilled in designing and developing trading and Telegram bots with a strong focus on architecture and performance.
-
----
+## 🧑‍💻 About Me
+Python Developer with 2 years of hands-on experience focused on algorithmic trading and data analysis. Proficient in **Pandas** for data manipulation, performance optimization, and visualization. Experienced in building high-performance asynchronous web APIs with **FastAPI** and deploying projects using **Docker**, integrating third-party APIs, and building bots. Skilled in designing and developing trading and Telegram bots with a strong focus on architecture and performance. Demonstrated expertise in analyzing large-scale datasets and implementing anomaly detection algorithms.
 
 ## 💼 Work Experience
 
+
 **Freelance**  
+_Python Developer_  
+📅 Jan 2023 – Present
 
-*Python Developer*  
+- Developed **10+ projects** for cryptocurrency exchanges (Binance, Bybit) using **exchange APIs** and **ASYNC**
+- Worked extensively with **asynchronous programming** (`asyncio`, `aiohttp`, `fastapi`)
+- Implemented trading strategies based on indicators from **TradingView**, volume analysis, and other custom logic
+- Deployed bots via **Docker** on **VPS**, managed remote infrastructure
+- Integrated with **PostgreSQL** and **Redis** for data storage and caching
 
-📅 Jan 2023 – Present  
 
-- Developed **10+ trading bots** for cryptocurrency exchanges (Binance, Bybit) using **exchange APIs** and the **CCXT** library  
+**Homeline (ISP)**  
+_Data Analyst_  
+📅 Sep 2024 – Dec 2024 (4 months, Contract, Remote)
 
-- Worked extensively with **asynchronous programming** (`asyncio`, `aiohttp`)  
+- Built a Python-based solution for analyzing large volumes of network traffic data using **Pandas**, **NumPy**, **Numba** and **Bokeh**
+- Developed algorithms to automatically detect anomalies in traffic usage, such as unusual activity spikes and deviations from normal usage patterns
+- Created comprehensive visualizations and prepared analytical reports for network performance insights
+- Optimized data processing performance using **Numba** for computationally intensive operations
 
-- Implemented trading strategies based on indicators from **TradingView**, volume analysis, and other custom logic  
+## Example:  
+- Developed a multi-user asynchronous trading bot integrated with a message broker, designed for the BYBIT exchange. Management and interaction were implemented via Telegram interface.
+	Stack: aiogram,aiohttp, pandas, faststream, redis, PostgreSQL, docker
+	[GitHub Repository](https://github.com/sotaireange/bybit_telegram_bot)
 
-- Deployed bots via **Docker** on **VPS**, managed remote infrastructure  
+- Built a Telegram bot that tracks cryptocurrency prices (including TON) and displays live price charts.  
+	Stack: aiogram,aiohttp, pandas, faststream, redis, MongoDB, docker
+	[@CryptWatchBot](https://t.me/CryptWatchBot)
+	[GitHub Repository](https://github.com/sotaireange/stondust)
 
-- Integrated with **PostgreSQL** and **Redis** for data storage and caching  
+- Crypto Listing using FastAPI and React.js, integrated with the CoinMarketCap API for real-time data.
+	 Stack: fastapi, React.JS,
+	[GitHub Repository](https://github.com/sotaireange/Crypto_listing_fast_api)
 
-Example:  
+## 🎓 Education
 
-Built a Telegram bot that tracks cryptocurrency prices (including TON) and displays live price charts.  
+## **Saint Petersburg Electrotechnical University "LETI"**  
+_Bachelor's Degree in Information Systems and Technologies_  
+📅 Sep 2019 – Jun 2023 (Full-time)
 
-👉 [@CryptWatchBot](https://t.me/CryptWatchBot)
+## 🛠 Skills
 
----
+### Programming
+- Python (asyncio, REST APIs)
+- JavaScript (React.js)
+- 
+### Libraries & Frameworks
+- FastAPI, SQLAlchemy, aiogram, Aiohttp, FastSream, RabirMQ
+- Pandas, NumPy, Numba, seaborn, Bokeh
+### Databases
+- PostgreSQL, Redis, MongoDB
 
-## 🎓 Education  
+### Tools & DevOps
+- Docker, kubernetes, Git, Linux, Nginx
 
-**Saint Petersburg Electrotechnical University "LETI"**  
+### Languages
 
-*Bachelor’s Degree in Information Systems and Technologies*  
-
-📅 Sep 2019 – Jun 2022 (Full-time)
-
----
-
-## 🛠 Skills  
-
-### Programming  
-
-- Python (OOP, asyncio, REST APIs, type hints)
-
-### Libraries & Frameworks  
-
-- Pandas, NumPy, seaborn  
-
-- FastAPI, SQLAlchemy, aiogram, Aiohttp  
-
-### Databases  
-
-- PostgreSQL, Redis  
-
-### Tools & DevOps  
-
-- Docker, kubernetes, Git, Linux, faststream, Nginx  
-
-### Languages  
-
-- **English:** - B1+
-- **Russian** - Native
-
----
-
-## 🎯 Objective  
-
-Seeking a **Junior Python Developer** role to contribute to backend systems, work with APIs and asynchronous tasks, and grow within a collaborative team. Highly motivated to learn, improve, and deliver reliable solutions.
+- **English:** B1+
+- **Russian:** Native
 
 ---
+
+## 🎯 Objective
+Seeking a **Junior Python Developer** role to contribute to backend systems, work with APIs and asynchronous tasks, and grow within a collaborative team. Highly motivated to learn, improve, and deliver reliable solutions with strong analytical and data processing capabilities.
