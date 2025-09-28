@@ -1,4 +1,4 @@
-## **Junior Python Developer**  
+## **Python Developer**  
 📍 Bishkek, Kyrgyzstan  
  sotaireange@gmail.com  
  [GitHub](https://github.com/sotaireange)
@@ -64,10 +64,10 @@ _Bachelor's Degree in Information Systems and Technologies_
 
 ### Languages
 
-- **English:** B1+
+- **English:** B2+
 - **Russian:** Native
 
 ---
 
 ##  Objective
-Seeking a **Junior Python Developer** role to contribute to backend systems, work with APIs and asynchronous tasks, and grow within a collaborative team. Highly motivated to learn, improve, and deliver reliable solutions with strong analytical and data processing capabilities.
+Seeking a **Python Developer** role to contribute to backend systems, work with APIs and asynchronous tasks, and grow within a collaborative team. Highly motivated to learn, improve, and deliver reliable solutions with strong analytical and data processing capabilities.
