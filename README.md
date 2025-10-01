@@ -1,5 +1,5 @@
 ## **Python Developer/Data Analyst**  
-📍 Bishkek, Kyrgyzstan  
+ Bishkek, Kyrgyzstan  
  sotaireange@gmail.com  
  [GitHub](https://github.com/sotaireange)
 [Telegram](https://t.me/sotaireange)
@@ -22,7 +22,7 @@ Python Developer with 2 years of hands-on experience focused on algorithmic trad
 
 **Freelance**  
 _Python Developer_  
-📅 Jan 2023 – Present
+Jan 2023 – Present
 
 - Developed **10+ projects** for cryptocurrency exchanges (Binance, Bybit) using **exchange APIs** and **ASYNC**
 - Worked extensively with **asynchronous programming** (`asyncio`, `aiohttp`, `fastapi`)
@@ -33,7 +33,7 @@ _Python Developer_
 
 **Homeline (ISP)**  
 _Data Analyst_  
-📅 Sep 2024 – Dec 2024 (4 months, Contract, Remote)
+ Sep 2024 – Dec 2024 (4 months, Contract, Remote)
 
 - Built a Python-based solution for analyzing large volumes of network traffic data using **Pandas**, **NumPy**, **Numba** and **Bokeh**
 - Developed algorithms to automatically detect anomalies in traffic usage, such as unusual activity spikes and deviations from normal usage patterns
@@ -45,7 +45,7 @@ _Data Analyst_
 
 ## **Saint Petersburg Electrotechnical University "LETI"**  
 _Bachelor's Degree in Information Systems and Technologies_  
-📅 Sep 2019 – Jun 2023 (Full-time)
+ Sep 2019 – Jun 2023 (Full-time)
 
 ##  Skills
 
