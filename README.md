@@ -1,10 +1,10 @@
-## **Python Developer**  
+## **Python Developer/Data Analyst**  
 📍 Bishkek, Kyrgyzstan  
  sotaireange@gmail.com  
  [GitHub](https://github.com/sotaireange)
 [Telegram](https://t.me/sotaireange)
 [Linkedin](https://www.linkedin.com/in/sotaireange/)
-
+[UpWork](https://www.upwork.com/freelancers/~01b51223eddf59a24f?companyReference=1760612320172412929&mp_source=share)
 ## About Me
 Python Developer with 2 years of hands-on experience focused on algorithmic trading and data analysis. Proficient in **Pandas** for data manipulation, performance optimization, and visualization. Experienced in building high-performance asynchronous web APIs with **FastAPI** and deploying projects using **Docker**, integrating third-party APIs, and building bots. Skilled in designing and developing trading and Telegram bots with a strong focus on architecture and performance. Demonstrated expertise in analyzing large-scale datasets and implementing anomaly detection algorithms.
 
@@ -70,4 +70,4 @@ _Bachelor's Degree in Information Systems and Technologies_
 ---
 
 ##  Objective
-Seeking a **Python Developer** role to contribute to backend systems, work with APIs and asynchronous tasks, and grow within a collaborative team. Highly motivated to learn, improve, and deliver reliable solutions with strong analytical and data processing capabilities.
+Seeking a **Python Developer** or **Data Analyst** role to contribute to backend systems, work with APIs and asynchronous tasks, and grow within a collaborative team. Highly motivated to learn, improve, and deliver reliable solutions with strong analytical and data processing capabilities.
